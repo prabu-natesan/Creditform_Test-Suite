@@ -6,3 +6,9 @@ Automated Test suite for Credit card form validation using Puppeteer framework.T
 2.Credit form submission using Valid Card (End to End scenario).
 3.Identification of Visa Card when value "4...." entered in CreditCardNumber field.
 4.Identification of MasterCard when value "5...." entered in CreditCardNumber field.
+
+# To Perform Test:
+Enter Comnd in Terminal = node test.js
+
+# Outcome:
+Screenshots will be captured and available on Left pannel
